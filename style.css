@@ -107,6 +107,10 @@ section .title::after{
 .navbar.sticky .logo a span{
     color: #fff;
 }
+.navbar .ul{
+    list-style: none;
+    display: inline-block;
+}
 .navbar .menu li{
     list-style: none;
     display: inline-block;
